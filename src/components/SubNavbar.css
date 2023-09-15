@@ -1,0 +1,108 @@
+.subNavBarImage{
+    height: 530px;
+    width: 122%;
+    margin-top: 0;
+}
+
+.SubNavbar{
+    position: relative;
+    margin-top: 0;
+}
+.SubNavBarImg{
+    position: absolute;
+    filter: brightness(40%);
+
+}
+.navBarText{
+    position: absolute;
+    width: 100%;
+}
+.navBarText{
+    background-color: transparent;
+    display: flex;
+}
+.subNavBarText{
+margin-top: 12%;
+margin-left: 5%;
+
+}
+.welcome{
+    font-size: 32px;
+    margin-left: 40px;
+    color: #fff; 
+    font-family: inherit;
+    margin-bottom: 0;
+}
+.akash{
+    font-size: 28px;
+    margin-left: 40px;
+    color: #fff;
+    font-family: inherit;
+    margin-bottom: 0;
+}
+.thirdText{
+    width: 60%;
+    margin-left: 40px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inherit;
+    color: #fff;
+    margin-top: 20px;
+
+
+}
+.text{
+    color: blue;
+}
+
+.card {
+    width: 300px;
+    height: 450px;
+    margin: 0;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for the input fields */
+  .mainCard{
+    margin-top: 10px;
+    margin-right: 50px;
+    border-radius: 0%;
+    
+
+  }
+  .card input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+  }
+  
+  /* Style for the submit button */
+  .card button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .card button:hover {
+    background-color: #0056b3;
+  }
+  .admission{
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 20px;
+  }
+ 
